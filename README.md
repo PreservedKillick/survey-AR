@@ -7,7 +7,7 @@ Epicodus week6, day3
 
 3rd day with Active Record.  With validations and callbacks.
 
-__half day only__
+__half-day only__
 
 ***********************
 Lesson:
